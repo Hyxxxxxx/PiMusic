@@ -254,7 +254,7 @@ if __name__ == '__main__':
     nums = 32
 
     generate_result(bpm=bpm, feelingChosen='SB',
-                    title="dd", composer="vv")
+                    title="gtmd", composer="vv")
 
     # m = music21.harmony.ChordSymbol('C7').pitches
     # m2 = music21.harmony.ChordSymbol('G7').pitches
